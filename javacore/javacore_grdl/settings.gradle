@@ -1,0 +1,5 @@
+rootProject.name = 'javacore_grdl'
+include 'api'
+include 'db'
+include 'service'
+

@@ -1,0 +1,1 @@
+{"id":"318c930f-8faf-436a-bc55-00a01bc78a23","name":"Иван","surname":"Петров","birthday":"1980-11-26","healthInfo":{"normalTemperature":36.65,"bloodPressure":{"high":120,"low":80}}}

@@ -1,0 +1,24 @@
+version: "3.9"
+services:
+  db:
+    container_name: sql_agg
+    image: mysql
+    environment:
+      MYSQL_DATABASE: sql_agg
+      MYSQL_USER: user
+      MYSQL_PASSWORD: user
+      MYSQL_ROOT_PASSWORD: root
+    ports:
+      - "3306:3306"
+  spring:
+    container_name: jdata_hibernate
+    image: persons
+    build: .
+    environment:
+      MYSQL_HOST: db
+      MYSQL_USER: user
+      MYSQL_PASSWORD: user
+    ports:
+      - "80:8080"
+    depends_on:
+      - db

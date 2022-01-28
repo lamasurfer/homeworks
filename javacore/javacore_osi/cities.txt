@@ -1,0 +1,121 @@
+Aberdeen
+Abu Dhabi
+Acapulco
+Ahmedabad
+Alexandria
+Atlanta
+Baghdad
+Bangalore
+Bangkok
+Barcelona
+Beijing
+Belo Horizonte
+Bogota
+Buenos Aires
+Cairo
+Chengdu
+Chennai
+Chicago
+Chongqing
+Dalian
+Dallas
+Dar es Salaam
+Delhi
+Dhaka
+Dongguan
+Edinburgh
+Edmonton
+Eindhoven
+Ekaterinburg
+El Paso
+Essen
+Foshan
+Frankfurt am Main
+Freiburg
+Fukuoka
+Geneva
+Glasgow
+Groningen
+Guadalajara
+Guangzhou
+Hangzhou
+Harbin
+Ho Chi Minh
+Hong Kong
+Houston
+Hyderabad
+Indianapolis
+Innsbruck
+Inverness
+Istanbul
+Jacksonville
+Jakarta
+Jerusalem
+Jinan
+Johannesburg
+Karachi
+Khartoum
+Kinshasa
+Kolkata
+Kuala Lumpur
+Lagos
+Lahore
+Lima
+London
+Los Angeles
+Luanda
+Madrid
+Manila
+Mexico
+Miami
+Moscow
+Mumbai
+Nagoya
+Nanjing
+Nashville
+New York
+Norwich
+Novgorod
+Oakland
+Osaka
+Ottawa
+Oxford
+Palo Alto
+Paris
+Parma
+Philadelphia
+Pune
+Qingdao
+Quebec
+Reykjavik
+Riga
+Rio de Janeiro
+Riyadh
+Rotterdam
+Saint Petersburg
+Santiago
+Sao Paulo
+Seoul
+Shanghai
+Shenyang
+Shenzhen
+Singapore
+Surat
+Suzhou
+Tehran
+Tianjin
+Tokyo
+Toronto
+Utrecht
+Valencia
+Valencia
+Vancouver
+Warsaw
+Washington
+Wiesbaden
+Winnipeg
+Wuhan
+Xi'an
+Yangon
+Yokohama
+York

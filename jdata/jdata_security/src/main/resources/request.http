@@ -1,0 +1,79 @@
+GET http://localhost/persons/basic
+
+### 200
+GET http://localhost/persons/by-city?city=Moscow
+Authorization: Basic scott scott
+
+### 200
+GET http://localhost/persons/by-age?age=30
+Authorization: Basic scott scott
+
+### 200
+GET http://localhost/persons/by-fullname?name=John&surname=Doe
+Authorization: Basic scott scott
+
+### 200
+GET http://localhost/users/my-data
+Authorization: Basic scott scott
+
+### 403
+GET http://localhost/users/all-data
+Authorization: Basic scott scott
+
+### 403
+DELETE http://localhost/persons/delete-by-id
+Authorization: Basic scott scott
+Content-Type: application/json
+
+{
+  "name": "John",
+  "surname": "Doe",
+  "age": 20
+}
+
+### 403
+POST http://localhost/persons/save
+Authorization: Basic scott scott
+Content-Type: application/json
+
+{
+  "name": "John",
+  "surname": "Doe",
+  "age": 20,
+  "phoneNumber": "+79261111111",
+  "cityOfLiving": "Moscow"
+}
+
+### 200
+DELETE http://localhost/persons/delete-by-id
+Authorization: Basic john john
+Content-Type: application/json
+
+{
+  "name": "John",
+  "surname": "Doe",
+  "age": 20
+}
+
+### 200
+POST http://localhost/persons/save
+Authorization: Basic john john
+Content-Type: application/json
+
+{
+  "name": "John",
+  "surname": "Doe",
+  "age": 20,
+  "phoneNumber": "+79261111111",
+  "cityOfLiving": "Moscow"
+}
+
+### 400
+GET http://localhost/users/all-data
+Authorization: Basic ivan ivan
+
+### 400
+GET http://localhost/users/all-data
+Authorization: Basic john john
+
+

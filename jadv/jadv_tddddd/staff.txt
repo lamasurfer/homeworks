@@ -1,0 +1,15 @@
+{"id":"0001","name":"Иван Петров","specialty":"TREATMENT"}
+{"id":"0002","name":"Игорь Катамаранов","specialty":"TREATMENT"}
+{"id":"0003","name":"Валерия Кокнаева","specialty":"TREATMENT"}
+{"id":"0004","name":"Алексей Бронников","specialty":"TREATMENT"}
+{"id":"0005","name":"Ольга Косарева","specialty":"TREATMENT"}
+{"id":"0006","name":"Тимур Кранц","specialty":"TREATMENT"}
+{"id":"0007","name":"Ислам Арсамаков","specialty":"TREATMENT"}
+{"id":"0008","name":"Христос Павлидис","specialty":"TREATMENT"}
+{"id":"0009","name":"Марина Мицкенвич","specialty":"REGISTRATION"}
+{"id":"0010","name":"Ирина Панкратова","specialty":"REGISTRATION"}
+{"id":"0011","name":"Сергей Семенов","specialty":"REGISTRATION"}
+{"id":"0012","name":"Антон Понкрашов","specialty":"DIAGNOSTICS"}
+{"id":"0013","name":"Алексей Аксенов","specialty":"DIAGNOSTICS"}
+{"id":"0014","name":"Иван Сперанский","specialty":"DIAGNOSTICS"}
+{"id":"0015","name":"Александр Воронин","specialty":"DIAGNOSTICS"}
